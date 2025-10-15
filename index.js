@@ -5,4 +5,4 @@ console.log("cuarto");
 console.log("quinto");
 console.log("sexto");
 console.log("septima");
-console.log("octava");
+console.log("octa");
